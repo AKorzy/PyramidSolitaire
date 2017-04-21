@@ -1,7 +1,9 @@
 # PyramidSolitaire
 Java Program written for UNH CS416
-      PROJECT REQUIREMENTS /n
-CS 416 Program 7P – Pyramid Solitaire update
+
+      PROJECT REQUIREMENTS
+      
+CS 416 Program 7P – Pyramid Solitaire 
 April 17, 2016
 
 7P Goals: Implement the Auto Play functionality; make sure your code can be run in batch (with NO user
