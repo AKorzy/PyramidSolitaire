@@ -1,6 +1,6 @@
 # PyramidSolitaire
 Java Program written for UNH CS416
-      PROJECT REQUIREMENTS
+      PROJECT REQUIREMENTS /n
 CS 416 Program 7P – Pyramid Solitaire update
 April 17, 2016
 
